@@ -22,14 +22,31 @@ This app lets users **browse products**, **add them to cart**, **manage cart ite
 
 ## 🖼️ Screenshots
 
-| Page | Screenshot |
-|------|-------------|
-| 🔏 Signup / Login Page | <img src="./MobileView/auth.png" width="250"/> |
-| 🏠 Home / Shop Page | <img src="./MobileView/shop.png" width="250"/> |
-| 🧺 Empty Cart Page | <img src="./MobileView/emptycart.png" width="250"/> |
-| 🧺 Filled Cart Page | <img src="./MobileView/cart.png" width="250"/> |
-| 💳 Billing / Checkout Page | <img src="./MobileView/checkout.png" width="250"/> |
-| 🧾 Mock Receipt | <img src="./MobileView/receipt.png" width="250"/> |
+<h3 align="center">🔏 Signup / Login</h3>
+<p align="center">
+  <img src="./MobileView/auth.png" width="250" />
+</p>
+
+<h3 align="center">🏠 Shop / Home Page</h3>
+<p align="center">
+  <img src="./MobileView/shop.png" width="250" />
+</p>
+
+<h3 align="center">🧺 Cart Pages</h3>
+<p align="center">
+  <img src="./MobileView/emptycart.png" width="250" />
+  <img src="./MobileView/cart.png" width="250" />
+</p>
+
+<h3 align="center">💳 Billing / Checkout</h3>
+<p align="center">
+  <img src="./MobileView/checkout.png" width="250" />
+</p>
+
+<h3 align="center">🧾 Mock Receipt</h3>
+<p align="center">
+  <img src="./MobileView/receipt.png" width="250" />
+</p>
 
 
 ---
