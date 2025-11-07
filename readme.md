@@ -24,13 +24,12 @@ This app lets users **browse products**, **add them to cart**, **manage cart ite
 
 | Page | Screenshot |
 |------|-------------|
-| 🔏 Signup / Login Page| ![Shop Screenshot](/MobileView/auth.png) |
-| 🏠 Home / Shop Page | ![Shop Screenshot](/MobileView/shop.png) |
-| 🧺 Empty Cart Page | ![Empty Cart Screenshot](/MobileView/emptycart.png) |
-| 🧺 Filled Cart Page | ![Cart Screenshot](/MobileView/cart.png) |
-| 💳 Billing / Checkout Page | ![Checkout Screenshot](/MobileView/checkout.png) |
-| 🧾 Mock Receipt | ![Receipt Screenshot](/MobileView/receipt.png) |
-
+| 🔏 Signup / Login Page | <img src="./MobileView/auth.png" width="250"/> |
+| 🏠 Home / Shop Page | <img src="./MobileView/shop.png" width="250"/> |
+| 🧺 Empty Cart Page | <img src="./MobileView/emptycart.png" width="250"/> |
+| 🧺 Filled Cart Page | <img src="./MobileView/cart.png" width="250"/> |
+| 💳 Billing / Checkout Page | <img src="./MobileView/checkout.png" width="250"/> |
+| 🧾 Mock Receipt | <img src="./MobileView/receipt.png" width="250"/> |
 
 
 ---
